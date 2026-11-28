@@ -1,4 +1,4 @@
-# Brain Tumor Segmentation using U-Net
+2# Brain Tumor Segmentation using U-Net
 
 A deep learning project for brain tumor segmentation from MRI images using the U-Net architecture. This repository includes data preprocessing, model training, evaluation, and inference scripts.
 
@@ -105,9 +105,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Md. Arafat Hossain**
-
-GitHub: https://github.com/Arafat-shuvo
+Md. Arafat Hossain
 
 ---
 
